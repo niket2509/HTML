@@ -12,7 +12,7 @@ node
  keepAll: false,
  reportDir: 'untitled',
  reportFiles: 'index1.html',
- reportName: 'HTML1234',
+ reportName: 'HTML2509',
  reportTitles: 'Calculator'])
     }
 }
